@@ -1,6 +1,6 @@
 # Hi 👋 my name is Slava
-## **Frontend Developer | React | Next.js | TypeScript
-**
+## Frontend Developer | React | Next.js | TypeScript
+
 
 ### 🙋‍♂️ Обо мне:
 
