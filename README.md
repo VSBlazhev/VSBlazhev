@@ -1,5 +1,6 @@
-# Привет 👋 меня зовут Слава
-## **React разработчик**
+# Hi 👋 my name is Slava
+## **Frontend Developer | React | Next.js | TypeScript
+**
 
 ### 🙋‍♂️ Обо мне:
 
